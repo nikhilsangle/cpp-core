@@ -1,6 +1,6 @@
 # Functions
 
-This folder contains C++ programs for learning and practicing functions, arguments, return values, and code reusability.
+This folder contains C++ programs for learning and practicing functions, arguments, return values, pass by value, pass by reference, and code reusability.
 
 ## Programs
 
@@ -16,10 +16,34 @@ This folder contains C++ programs for learning and practicing functions, argumen
 
 - Sum of Two Numbers
 - Largest of Two Numbers
+- Largest of Three Numbers
+- Smallest of Three Numbers
 - Factorial
-- Palindrome Number
 - Prime Number
 - Armstrong Number
+- Strong Number
+- Perfect Number
+- Palindrome Number
+- Reverse Number
+- Count Digits
+- Sum of Digits
+- Product of Digits
+- Count Even Digits
+- Count Odd Digits
+
+### Pass by Value
+
+- Swap Two Numbers
+
+### Pass by Reference
+
+- Swap Two Numbers
+- Increment Number
+- Decrement Number
+- Double Number
+- Square Number
+- Cube Number
+- Quotient and Remainder
 
 ## Concepts Covered
 
@@ -29,7 +53,11 @@ This folder contains C++ programs for learning and practicing functions, argumen
 - Parameters
 - Arguments
 - Return Values
-- void Functions
-- bool Functions
+- `void` Functions
+- `bool` Functions
+- Pass by Value (Call by Value)
+- Pass by Reference (Call by Reference)
+- Returning Multiple Values Using References
+- Function Calling Another Function
 - Code Reusability
 - Loops with Functions
